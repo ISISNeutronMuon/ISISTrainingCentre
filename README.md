@@ -25,7 +25,7 @@ Software development training area for new starters
 - Qt / PyQt and the Qt Designer/UI files
 - Agile Workflows: Behaviour Driven Development (?) Domain Driven Design (?)
 - Linux shell/WSL/Powershell (Command Lines)
-## Deliver Schedule
+## Delivery Schedule
 ### First Year
 - September
   - Design and Code Reviews
